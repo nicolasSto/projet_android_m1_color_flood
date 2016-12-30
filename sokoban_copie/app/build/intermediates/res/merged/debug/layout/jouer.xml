@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/jouer"
+    android:background="#ff888888"
+    >
+
+    <Button
+        android:text="Nouvelle partie niveau Facile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/facile_button"
+        android:onClick="buttonNiveauFacile"/>
+
+    <Button
+        android:text="Nouvelle partie niveau Moyen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/moyen_button"
+        android:onClick="buttonNiveauMoyen"/>
+
+    <Button
+        android:text="Nouvelle partie niveau Difficile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/difficile_button"
+        android:onClick="buttonNiveauDifficile"/>
+
+    <Button
+        android:text="Reprendre la partie en cour"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/resume_button"
+        android:onClick="buttonResume"/>
+</LinearLayout>

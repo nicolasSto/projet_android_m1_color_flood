@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="p8.demo.p8sokoban"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <application
+        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:icon="@drawable/icon"
+        android:label="color flood" >
+        <activity
+            android:name="p8.demo.p8sokoban.p8_Sokoban"
+            android:label="Color Flood"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="p8.demo.p8sokoban.menu"
+            android:label="Color flood"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="p8.demo.p8sokoban.Jouer"
+            android:label="Menu de jeu"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="p8.demo.p8sokoban.Propos"
+            android:label="À propos"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name="p8.demo.p8sokoban.Meilleur_score"
+            android:label="score"
+            android:screenOrientation="portrait" >
+        </activity>
+    </application>
+
+</manifest>

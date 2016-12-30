@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3ad4072991dfb4442f34fe06bcc3145b1844408d">
+        <dex dex="/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_aa50b72889a2866bbdf159990db9653ca11c71ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nico/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9668e51c2a93f3b7086911c3a2a638c120fec89a">
+        <dex dex="/Users/Nico/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f39727e8ad4371bd45f6bf56234f3898c60db148/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nico/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ceb38c74dcf51afdef6140fe527c33ffbb4144f3">
+        <dex dex="/Users/Nico/AndroidStudioProjects/P8_Sokoban/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2488e4bc608ed74a3b0a8a3613d3221598601547/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d4a41fa56474b1e2f2aa0c7702b068ec448b5af8">
+        <dex dex="/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_19cf1719295a6aa495d1c20ed4ffd25063aa0b5c/classes.dex" />
+    </item>
+
+</items>

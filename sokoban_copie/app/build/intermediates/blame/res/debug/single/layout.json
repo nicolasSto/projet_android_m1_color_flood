@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/layout/menu.xml",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/layout/menu.xml"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/layout/score.xml",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/layout/score.xml"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/layout/propos.xml",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/layout/propos.xml"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/layout/jouer.xml",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/layout/jouer.xml"
+    }
+]

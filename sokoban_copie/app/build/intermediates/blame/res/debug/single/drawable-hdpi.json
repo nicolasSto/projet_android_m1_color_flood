@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/drawable-hdpi/blue.png",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/drawable-hdpi/blue.png"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/drawable-hdpi/red.png",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/drawable-hdpi/red.png"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/drawable-hdpi/yellow.png",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/drawable-hdpi/yellow.png"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/drawable-hdpi/icon.png",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/drawable-hdpi/green.png",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/drawable-hdpi/green.png"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/drawable-hdpi/pink.png",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/drawable-hdpi/pink.png"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/drawable-hdpi/purple.png",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/drawable-hdpi/purple.png"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/drawable/big_purple.png",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/drawable/big_purple.png"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/drawable/propos.png",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/drawable/propos.png"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/drawable/lose.png",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/drawable/lose.png"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/drawable/big_yellow.png",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/drawable/big_yellow.png"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/drawable/big_green.png",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/drawable/big_green.png"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/drawable/big_pink.png",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/drawable/big_pink.png"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/drawable/big_red.png",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/drawable/big_red.png"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/drawable/win.png",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/drawable/win.png"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/drawable/colorflood.png",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/drawable/colorflood.png"
+    },
+    {
+        "merged": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/build/intermediates/res/merged/debug/drawable/big_blue.png",
+        "source": "/Users/Nico/AndroidStudioProjects/sokoban_copie/app/src/main/res/drawable/big_blue.png"
+    }
+]
